@@ -1,0 +1,9 @@
+{
+	"title": "$:/plugins/thecontinium/TW5-taskpaper",
+	"description": "deserialise a taskpaper file format into tiddlers",
+	"author": "thecontinium",
+	"version": "0.0.1",
+	"core-version": ">=5.0.8",
+	"source": "https://github.com/thecontinium/TW5-taskpaper",
+	"plugin-type": "plugin"
+}
