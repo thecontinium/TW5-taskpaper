@@ -1,9 +1,9 @@
 /*\
-title: $:/plugins/tiddlywiki/taskpaper/modules/taskpaper-deserializer.js
+title: $:/plugins/thecontinium/taskpaper/modules/taskpaper-deserializer.js
 type: application/javascript
 module-type: tiddlerdeserializer
 
-ENEX file deserializer
+TaskPaper file deserializer
 
 For details see: https://github.com/jessegrosjean/birch-outline
 
@@ -17,7 +17,7 @@ For details see: https://github.com/jessegrosjean/birch-outline
 // DOMParser = require("$:/plugins/tiddlywiki/xmldom/dom-parser").DOMParser;
 
 /*
-Parse an ENEX file into tiddlers
+Parse a TaskPaper file into tiddlers
 */
 exports["application/taskpaper"] = function(text,fields) {
 	// Collect output tiddlers in an array
