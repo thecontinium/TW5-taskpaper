@@ -6,5 +6,5 @@
 	"core-version": ">=5.0.8",
 	"source": "https://github.com/thecontinium/TW5-taskpaper",
 	"plugin-type": "plugin",
-	"list": "readme docs"
+	"list": "readme license"
 }
