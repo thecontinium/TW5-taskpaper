@@ -4,14 +4,14 @@
 			"file": "bibtexParse.js",
 			"fields": {
 				"type": "application/javascript",
-				"title": "$:/plugins/tiddlywiki/bibtex/bibtexParse.js",
+				"title": "$:/plugins/thecontinium/TW5-taskpaper/bibtexParse.js",
 				"module-type": "library"
 			}
 		},{
 			"file": "LICENSE",
 			"fields": {
 				"type": "text/plain",
-				"title": "$:/plugins/tiddlywiki/bibtex/license"
+				"title": "$:/plugins/thecontinium/TW5-taskpaper/license"
 			}
 		}
 	]
