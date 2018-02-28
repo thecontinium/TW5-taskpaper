@@ -1,4 +1,4 @@
-title: $:/plugins/tiddlywiki/bibtex/readme
+title: $:/plugins/thecontinium/TW5-taskpaper/readme
 
 The BibTeX plugin provides a deserializer that can convert bibliographic entries in `.bib` files into individual tiddlers.
 
