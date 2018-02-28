@@ -1,5 +1,5 @@
 /*\
-title: $:/plugins/thecontinium/TW5-taskpaper/modules/taskpaper-deserializer.js
+title: $:/plugins/thecontinium/TW5-taskpaper/taskpaper-deserializer.js
 type: application/javascript
 module-type: tiddlerdeserializer
 
